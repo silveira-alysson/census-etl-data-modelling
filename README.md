@@ -50,5 +50,6 @@ The analysis yields two key findings:
 *Robust standard errors in parentheses. \*\*\* p<0.01, \*\* p<0.05, \* p<0.1*
 
 **Figure 1: Predicted values of knowledge creation showing the flattening effect of IT-KIC on the inverted U-shaped relationship.**
+
 <img src="docs/images/itkic.jpg" width="600" alt="he Moderating Effect of IT-KIC on the Curvilinear Relationship between Organizational Experience Composition and Knowledge Creation">
 
