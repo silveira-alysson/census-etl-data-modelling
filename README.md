@@ -51,4 +51,4 @@ The analysis yields two key findings:
 
 **Figure 4: Predicted values of knowledge creation showing the flattening effect of IT-KIC on the inverted U-shaped relationship.**
 <img src="docs/images/itkic.jpg" width="600" alt="he Moderating Effect of IT-KIC on the Curvilinear Relationship between Organizational Experience Composition and Knowledge Creation">
-*Figure 4: Predicted values of knowledge creation showing the flattening effect of IT-KIC on the inverted U-shaped relationship.*
+
