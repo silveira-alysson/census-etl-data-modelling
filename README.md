@@ -30,7 +30,7 @@ The analysis yields two key findings:
 
 ### Main Results
 
-**Table 3: Two-Way Fixed Effects Poisson Regression**
+**Table 1: Two-Way Fixed Effects Poisson Regression**
 
 | Variable | (1) Articles | (2) Articles | (3) Articles |
 | :--- | :--- | :--- | :--- |
@@ -49,5 +49,6 @@ The analysis yields two key findings:
 
 *Robust standard errors in parentheses. \*\*\* p<0.01, \*\* p<0.05, \* p<0.1*
 
-![Figure 4: The Moderating Effect of IT-KIC on the Curvilinear Relationship between Organizational Experience Composition and Knowledge Creation](path/to/figure4.png)
+**Figure 4: Predicted values of knowledge creation showing the flattening effect of IT-KIC on the inverted U-shaped relationship.**
+<img src="docs/images/itkic.jpg" width="600" alt="he Moderating Effect of IT-KIC on the Curvilinear Relationship between Organizational Experience Composition and Knowledge Creation">
 *Figure 4: Predicted values of knowledge creation showing the flattening effect of IT-KIC on the inverted U-shaped relationship.*
