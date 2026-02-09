@@ -1,4 +1,4 @@
-# When Experience Mix Hinders Knowledge Creation in Higher Education Institutions
+# Experience Mix and Knowledge Creation in Higher Education Institutions (Summary)
 
 ## Overview
 
